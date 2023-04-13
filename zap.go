@@ -94,3 +94,4 @@ func Fatal(args ...interface{}) {
 func Fatalf(template string, args ...interface{}) {
 	logger.Fatalf(template, args...)
 }
+
